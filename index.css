@@ -1,0 +1,135 @@
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   height: 100%;
+  
+}
+
+table tr td{
+   font-size: 10px;
+   width: 80px;
+   
+}
+#couleur1{
+    background-color: aquamarine;
+}
+    #couleur2{
+        background-color:#8477b4;
+    }
+    #couleur3{
+        background-color: darkseagreen;
+    }
+    #couleur4{
+        background-color: darksalmon;
+    }
+     #couleur5{
+        background-color: peachpuff;
+     }
+     #couleur6{
+        background-color: lightgoldenrodyellow;
+     }
+     #couleur7{
+        background-color: steelblue;
+     }
+     #couleur8{
+        background-color: wheat;
+     }
+     #couleur9{
+        background-color:#eb969e;
+     }
+     #couleur10{
+        background-color:#ae5f85;
+     }
+     .button{
+        background-color: darkseagreen;
+     }
+     #code{
+    height: 40px;
+     }
+     body{
+        text-align: center;
+        
+     }
+     img {
+      height: 80px;
+      border-radius: 50%;
+     }
+     .c{
+      font-size: 10px;
+     }
+     .photo{
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 20px;
+     }
+     .pho{
+      font-size: -100px;
+      padding-bottom: 100px;
+     }
+     
+     
+     
+     
+    
+     @media screen and (max-width: 1560px){
+      div img p{
+         max-width: 9px;
+      }
+      body div table tr td{
+         font-size: 9px;
+      }
+     }
+     @media screen and (max-width: 1300px){
+      div img p{
+         max-width: 8px;
+      }
+      body div table tr td{
+         font-size: 8px;
+         
+      }
+     }
+     @media screen and (max-width: 1000px){
+      div img p{
+         max-width: 6px;
+      }
+      body div table tr td{
+         font-size: 6px;
+      }
+     }
+     @media screen and (max-width: 700px){
+      div img p{
+         max-width: 4px;
+      }
+      body div table tr td{
+         font-size: 4px;
+      }
+     }
+     @media screen and (max-width: 500px){
+      div img p{
+         max-width: 2px;
+      }
+      body div table tr td{
+         font-size: 2px;
+      }
+     }
+     @media screen and (max-width: 300px){
+      div img p{
+         max-width: 1px;
+      }
+      body div table tr td{
+         font-size: 1px;
+      }
+     }
+     @media screen and (max-width:100px){
+      div img p{
+         max-width: 0.5px;
+      }
+      body div table tr td{
+         font-size: 0.5px;
+      }
+     }
+
+
+     

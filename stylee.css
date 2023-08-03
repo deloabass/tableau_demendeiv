@@ -1,0 +1,29 @@
+
+.boite{
+    background-color: #bdc7fe;
+    width: 500px;
+    height: 250px;
+    text-align:center;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 350px;
+}
+.robot{
+    margin-top: 40px; 
+}
+button{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    border-radius: 9px;
+    border: none;
+    background-color: #d6f6d0;
+}
+button:hover{
+    fill: none;
+    background: red
+}
+a{
+    text-decoration: none;
+    color: black;
+}
